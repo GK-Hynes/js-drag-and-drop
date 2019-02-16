@@ -1,6 +1,6 @@
 # Vanilla JavaScript Drag & Drop
 
-A simple drag and drop widget built in vanilla JavaScript. Based off Brad Traversy's [Drag and Drop project](https://www.youtube.com/watch?v=C22hQKE_32c&t=323s).
+A simple drag and drop widget built in vanilla JavaScript to practice working with the HTML Drag and Drop API. Based off Brad Traversy's [Drag and Drop project](https://www.youtube.com/watch?v=C22hQKE_32c&t=323s).
 
 Uses the [Unsplash Source API](https://source.unsplash.com/).
 
